@@ -8,7 +8,7 @@ This is the repository for one of the components of the INDIeOpen architecture, 
 
 ## Deployment
 
-All the INDIe back end components are based on a microservices solution based on Spring Boot(https://spring.io/microservices). The deployment of these microservices depends on the selected cloud computing provider. Each cloud computing provider provides its own deployment manual. In the case of Microsoft’s Azure it can be found at the following URL  Quickstart - Deploy your first application to Azure Spring Apps | Microsoft Docs (https://docs.microsoft.com/en-us/azure/spring-apps/quickstart?tabs=Azure-CLI).
+All the INDIe back end components are based on a microservices solution based on Spring Boot(https://spring.io/microservices). The deployment of these microservices depends on the selected cloud computing provider. Each cloud computing provider provides its own deployment manual. In the case of Microsoft’s Azure it can be found at the following URL: https://docs.microsoft.com/en-us/azure/spring-apps/quickstart?tabs=Azure-CLI.
 
 ## Creators and contributors
 
